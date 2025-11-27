@@ -1,0 +1,26 @@
+{
+  "name": "cod-reducere-answear",
+  "version": "1.0.0",
+  "description": "O colecție de coduri de reducere Answear",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cod reducere",
+    "voucher",
+    "cupon",
+    "cod promotional",
+    "answear",
+    "reduceri",
+    "cuponescu"
+  ],
+  "author": "Cuponescu",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AdrianCu);ponescu/cod-reducere-answear.git"
+  },
+  "homepage": "https://www.cuponescu.ro"
+}
+
