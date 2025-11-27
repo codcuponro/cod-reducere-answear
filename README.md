@@ -1,6 +1,6 @@
 # Cod Reducere Answear
 
-O colecție de coduri de reducere Answear. Le folosim pentru testarea cuvintelor cheie cod reducere Answear, voucher Answear, cupon Answear, și cod promotional Answear de pe Cuponescu.ro.
+O colecție de coduri de reducere Answear. Le folosim pentru testarea cuvintelor cheie [cod reducere Answear](https://cuponescu.ro/magazin/answear), [voucher Answear](https://cuponescu.ro/magazin/answear), [cupon Answear](https://cuponescu.ro/magazin/answear), și [cod promotional Answear](https://cuponescu.ro/magazin/answear) de pe Cuponescu.ro.
 
 ## Instalare
 
@@ -36,5 +36,4 @@ console.log(codes)
 
 Cod-reducere-answear a fost creat de echipa de la Cuponescu pentru a ajuta cu testarea.
 
-https://www.cuponescu.ro
-
+https://cuponescu.ro
